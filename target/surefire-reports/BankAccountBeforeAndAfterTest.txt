@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: BankAccountBeforeAndAfterTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.001 sec <<< FAILURE! - in BankAccountBeforeAndAfterTest
+BankAccountBeforeAndAfterTest.testWithDraw()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at BankAccountBeforeAndAfterTest.testWithDraw(BankAccountBeforeAndAfterTest.java:22)
+
+BankAccountBeforeAndAfterTest.testDeposit()  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at BankAccountBeforeAndAfterTest.testDeposit(BankAccountBeforeAndAfterTest.java:28)
+

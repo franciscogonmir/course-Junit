@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: ankAccountOrderedExecutionTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.01 sec <<< FAILURE! - in ankAccountOrderedExecutionTest
+ankAccountOrderedExecutionTest.testWithDraw()  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.RuntimeException
+	at BankAccount.withDraw(BankAccount.java:51)
+	at ankAccountOrderedExecutionTest.testWithDraw(ankAccountOrderedExecutionTest.java:16)
+
